@@ -24,8 +24,7 @@ int main() {
     average = (rain1 + rain2 + rain3) / 3.0;
 
 
-    cout << "\nThe average rainfall for " << month1 << ", " << month2 << ", and "
-         << month3 << " is " << average << " inches.\n";
+    cout << "\nThe average rainfall for " << month1 << ", " << month2 << ", and " << month3 << " is " << average << " inches.\n";
 
 
     return 0;
